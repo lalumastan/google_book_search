@@ -18,5 +18,5 @@ A{Install<br/>Android<br/>Studio Code} --> B[Checkout<br/>'google_book_search' c
 </ul>
 
 ### Tutorial
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=u4fj2dIkMkQ" target="_blank"><img src="http://img.youtube.com/vi/u4fj2dIkMkQ/0.jpg" alt="Google Book Search:  Search for any books using Google Books API via Web View" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AvTe68ywMto" target="_blank"><img src="http://img.youtube.com/vi/AvTe68ywMto/0.jpg" alt="Google Book Search:  Search for any books using Google Books API via Web View" width="240" height="180" border="10" /></a>
 
